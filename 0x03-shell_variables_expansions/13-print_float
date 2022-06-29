@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 0.01 | export NUM="0.01"
+print "%0.2f\n"$NUM
