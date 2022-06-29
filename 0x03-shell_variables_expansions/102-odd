@@ -1,2 +1,2 @@
-#!/bin/bas
-paste -- | cut -f1
+#!/bin/bash
+\ls -l1
